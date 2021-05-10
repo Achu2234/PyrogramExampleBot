@@ -5,7 +5,7 @@ This is an example telegram bot writtn in **Python** using **Pyrogram**
 
 ## Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Achu2234/PyrogramExampleBot)
 
 ## On VPS / Pc
 **Before Doing Anything Install Python 3! To Install It [Click Here](https://www.python.org/downloads/)**
@@ -13,8 +13,9 @@ This is an example telegram bot writtn in **Python** using **Pyrogram**
 ```
 # To Clone This Repo
 
-
+https://github.com/Achu2234/PyrogramExampleBot
 # Fill Configs with your own values in config.py
+
 
 # To Enter The Folder
 cd PyrogramExampleBot
